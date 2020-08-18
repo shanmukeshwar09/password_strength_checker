@@ -26,10 +26,11 @@ body {
   letter-spacing: 1.5px;
 }
 input {
+  margin: auto 9px;
   border-radius: 9px;
   height: 45px;
   outline: none;
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   padding: 18px;
   border: none;
   letter-spacing: 1.2px;
@@ -41,7 +42,7 @@ input {
   width: 90%;
   height: 2rem;
   border-radius: 18px;
-  border: 2px solid blueviolet;
+  border: 1.8px solid blueviolet;
   margin: auto;
   position: relative;
   overflow: hidden;
